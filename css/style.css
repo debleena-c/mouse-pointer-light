@@ -128,7 +128,8 @@ body{overflow-x: hidden;}
 }
 
  /*-----------banner------------------*/
-.banner{position: relative;padding: 120px 0px 0px;background: url(../images/hero-image.png) no-repeat top center;min-height: 100vh;}
+.banner{position: relative;padding: 120px 0px 0px;background: url(../images/hero-image.png) no-repeat top center;min-height: 100vh;
+background-size: cover;}
 .hero-text{position: absolute;top: 200px;left: 0;right: 0;text-align: center; z-index: 2;}
 .hero-text p{font-family: 'Nosifer', sans-serif;font-size: 60px;color: #FB8A22;}
 /*----------------------end banner------------------------*/
